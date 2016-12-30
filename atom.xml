@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oling Cat</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://oling.cat/"/>
+  <updated>2016-12-30T17:16:02.515Z</updated>
+  <id>http://oling.cat/</id>
+  
+  <author>
+    <name>Oling Cat</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://oling.cat/2016/12/31/hello-world/"/>
+    <id>http://oling.cat/2016/12/31/hello-world/</id>
+    <published>2016-12-30T16:22:50.408Z</published>
+    <updated>2016-12-30T17:16:02.515Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, World!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello, World!&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
