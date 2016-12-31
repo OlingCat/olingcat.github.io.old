@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://oling.cat/2016/12/31/hello-world/</loc>
+    <loc>http://oling.cat/2016/12/31/good-night-world/</loc>
     
-    <lastmod>2016-12-30T17:16:02.515Z</lastmod>
+    <lastmod>2016-12-31T16:13:26.579Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://oling.cat/about/index.html</loc>
     
-    <lastmod>2016-12-30T17:03:07.254Z</lastmod>
+    <lastmod>2016-12-30T17:28:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oling.cat/2016/12/31/hello-world/</loc>
+    
+    <lastmod>2016-12-30T17:16:02.515Z</lastmod>
     
   </url>
   
