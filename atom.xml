@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://oling.cat/"/>
+  <link href="https://oling.cat/"/>
   <updated>2017-01-01T16:04:52.871Z</updated>
-  <id>http://oling.cat/</id>
+  <id>https://oling.cat/</id>
   
   <author>
     <name>Oling Cat</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Good Night, World.</title>
-    <link href="http://oling.cat/2016/12/31/good-night-world/"/>
-    <id>http://oling.cat/2016/12/31/good-night-world/</id>
+    <link href="https://oling.cat/2016/12/31/good-night-world/"/>
+    <id>https://oling.cat/2016/12/31/good-night-world/</id>
     <published>2016-12-31T15:34:28.000Z</published>
     <updated>2017-01-01T16:04:52.871Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://oling.cat/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://oling.cat/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://oling.cat/2016/12/31/hello-world/"/>
-    <id>http://oling.cat/2016/12/31/hello-world/</id>
+    <link href="https://oling.cat/2016/12/31/hello-world/"/>
+    <id>https://oling.cat/2016/12/31/hello-world/</id>
     <published>2016-12-30T16:22:50.408Z</published>
     <updated>2016-12-30T17:16:02.515Z</updated>
     
