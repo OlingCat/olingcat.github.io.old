@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://oling.cat/"/>
-  <updated>2017-02-19T16:54:40.000Z</updated>
+  <updated>2017-02-19T17:57:27.000Z</updated>
   <id>https://oling.cat/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://oling.cat/2017/02/17/the-riemann-hypothesis-explained/"/>
     <id>https://oling.cat/2017/02/17/the-riemann-hypothesis-explained/</id>
     <published>2017-02-16T16:53:48.000Z</published>
-    <updated>2017-02-19T16:54:40.000Z</updated>
+    <updated>2017-02-19T17:57:27.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2017/02/17/the-riemann-hypothesis-explained/00-banner.png" alt="img"></p>
 <blockquote>
@@ -132,7 +132,7 @@
 </tr>
 </tbody>
 </table>
-<p>他重复这个过程，紧接着在两遍同时乘以第三项：</p>
+<p>他重复这个过程，紧接着在两边同时乘以第三项：</p>
 <table>
 <thead>
 <tr>
@@ -171,7 +171,7 @@
 </tr>
 </tbody>
 </table>
-<p>如果你很熟悉这个过程，那是因为欧拉实际上构造了一个筛子，它和埃拉托斯特尼筛法很像。它将非素数从 zeta 函数中筛了出去。接着，将该表达式除以所有素数的倒数项，就得到了：</p>
+<p>如果你觉得这个过程很眼熟，那是因为欧拉实际上构造了一个筛子，它和埃拉托斯特尼筛法很像。它将非素数从 zeta 函数中筛了出去。接着，将该表达式除以所有素数的倒数项，就得到了：</p>
 <table>
 <thead>
 <tr>
@@ -733,7 +733,7 @@
 </tr>
 </tbody>
 </table>
-<p>So, each expression in the finite sum that makes up the prime reciprocal series of Euler product formula can be expressed as integrals, making an infinite sum of integrals that correspond to the area under the Riemann prime counting function. For the prime number 3, this infinite product of integrals is:<br>因此，组成了欧拉乘积公式的素数倒数级数的无限积中的每个表达式都可以表示为积分，以此来创建对应于黎曼素计数函数下面积的积分的无穷和。对于素数<code>3</code>，这个积分的无限积为：</p>
+<p>因此，组成了欧拉乘积公式的素数倒数级数的无限积中的每个表达式都可以表示为积分，以此来创建对应于黎曼素计数函数下面积的积分的无穷和。对于素数<code>3</code>，这个积分的无限积为：</p>
 <table>
 <thead>
 <tr>
@@ -802,7 +802,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">通过黎曼素数计数函数 J(x) 的明确公式使用黎曼 zeta 函数的前<code>35</code>个非平凡零点<code>ρ</code>来近似素数计步函数<code>π(x)</code></td>
+<td style="text-align:center">通过黎曼素数计数函数<code>J(x)</code>的明确公式使用黎曼 zeta 函数的前<code>35</code>个非平凡零点<code>ρ</code>来近似素数计步函数<code>π(x)</code></td>
 </tr>
 </tbody>
 </table>
